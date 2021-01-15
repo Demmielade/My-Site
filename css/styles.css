@@ -89,6 +89,8 @@ hr {
  }
  .my-image {
 float: right;
+   width: 100px;
+   height: 100px;
  }
 
  .middle-container {
