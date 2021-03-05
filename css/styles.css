@@ -17,7 +17,7 @@ h1 {
 .top-container {
   background-image: url('Background-IMG.jpg');
   background-repeat: no-repeat;
-  padding-top: 100px;
+  padding-top: 500px;
 }
 
 h2 {
@@ -40,17 +40,6 @@ a {
 .Programmer {
   font-weight: normal;
   color: #66BFBF;
-}
-
-.top-cloud {
-  position: absolute;
-  left: 900px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  top: 500px;
-  right: 900px;
 }
 
 p {
@@ -100,6 +89,7 @@ span {
 
 .my-image {
   float: right;
+  width: 50%;
 }
 
 .middle-container {
