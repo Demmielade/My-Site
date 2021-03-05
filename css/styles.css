@@ -17,6 +17,7 @@ h1 {
 .top-container {
   background-image: url('Background-IMG.jpg');
   background-repeat: no-repeat;
+  padding-top: 100px;
 }
 
 h2 {
@@ -39,11 +40,6 @@ a {
 .Programmer {
   font-weight: normal;
   color: #66BFBF;
-}
-
-.top-container {
-  background-color: #37DE72;
-  padding-top: 100px;
 }
 
 .top-cloud {
