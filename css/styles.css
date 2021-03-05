@@ -17,6 +17,8 @@ h1 {
 .top-container {
   background-image: url('Background-IMG.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   padding-top: 500px;
 }
 
