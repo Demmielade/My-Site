@@ -130,3 +130,39 @@ span {
   background: #1ded4d;
   text-decoration: none;
 }
+@media only screen and (min-width: 720px)
+{
+  .bottom-container {
+    background-color: #37DE72;
+    padding: 100px 100% -50% 100%;
+    justify-content: space-between;
+    align-content: space-between;
+  }
+
+  .stubborn {
+    margin-bottom: -120px; 
+  }
+  h3 {
+    font-size: 50px;
+  }
+  p {
+    font-size: 30px;
+  }
+  .image {
+    width: 50%;
+    height: 95%;
+    margin-right: 50px;
+  }
+  .footer-link {
+    font-size: 30px;
+    background: #eb3da0;
+    padding: 10px 25px 10px 10px;
+  }
+  .image2 {
+  height: 150px;
+  width: 350px;
+  float: left;
+  margin-left: -10px;
+  }
+}
+
